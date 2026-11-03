@@ -35,7 +35,7 @@ I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group. I graduated
   * Advisor: Prof. Yu Cheng
 
 ## Publications
-See also the [Publications](/publications/) page.
+See also the [Publications]({{ '/publications/' | relative_url }}) page.
 
 ### 2025
 * **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** — Published on Arxiv, 2025. First author.

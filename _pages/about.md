@@ -20,18 +20,18 @@ I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group. I graduated
 * LLM Truthfulness and Interpretability
 
 ## Academic Background
-* **Ph.D. in Computer Science** (2024–Present), Hong Kong University of Science and Technology (HKUST)
+* **Ph.D. in Computer Science** (2024-Present), Hong Kong University of Science and Technology (HKUST)
   * PhD supervisor: Professor Junxian He
-* **B.Eng.** (2020–2024), Shanghai Jiao Tong University (SJTU)
+* **B.Eng.** (2020-2024), Shanghai Jiao Tong University (SJTU)
   * Graduated in June 2024
   * Professor Junxian He previously advised me during my undergraduate studies at SJTU
 * **Zhiyuan Honor Scholarship**, Shanghai Jiao Tong University
 
 ## Research Experience
-* **Research Intern**, MINIMAX (February 2025–Present)
-* **Research Intern**, Tencent WXG (June 2024–September 2024)
+* **Research Intern**, MINIMAX (February 2025 - Present)
+* **Research Intern**, Tencent WXG (June 2024 - September 2024)
   * Advisor: Zifei Shan
-* **Research Intern**, Shanghai AI Lab (June 2023–December 2023)
+* **Research Intern**, Shanghai AI Lab (June 2023 - December 2023)
   * Advisor: Prof. Yu Cheng
 
 ## Publications

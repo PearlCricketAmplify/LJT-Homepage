@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate at the [HKUST NLP Group](https://github.com/Vicent0205). My research focuses on natural language processing and machine learning.
+I am a first-year PhD candidate at the HKUST NLP Group. My research focuses on natural language processing and machine learning.
 
 ## Personal Details
 

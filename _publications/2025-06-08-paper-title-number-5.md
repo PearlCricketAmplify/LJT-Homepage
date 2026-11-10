@@ -3,7 +3,7 @@ title: "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning L
 collection: publications
 category: manuscripts
 permalink: /publication/synlogic-logical-reasoning/
-date: '2025'
+year: 2025
 pub_order: 6
 venue: 'arXiv'
 excerpt: 'Has GitHub code repository.'
